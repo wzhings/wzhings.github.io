@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>admin on Zuhui Wang&#39;s Homepage</title>
+    <link>https://wzhings.github.io/authors/admin/</link>
+    <description>Recent content in admin on Zuhui Wang&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} Zuhui Wang</copyright>
+    
+	<atom:link href="https://wzhings.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://wzhings.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wzhings.github.io/author/admin/</guid>
+      <description>Zuhui Wang is currently a 1st-year Ph.D. student in Computer Science at Missouri University of Science and Technology (MST), advised by Dr. Zhaozheng Yin. Before joining this university, he received his Master degree in Computer Science at University of Central Florida in 2017, and also earned his Bachelor degree in Computer Science and Technology at Southern Medical University in 2009.
+His research interests including computer vision and image computation with deep learning technologies, especially in multimedia representation and computation projects.</description>
+    </item>
+    
+  </channel>
+</rss>
