@@ -27,11 +27,9 @@
   
     
   
-  <meta name="description" content="In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
+  <meta name="description" content="Equation 1.90, Section 1.5.5 in Pattern Recognition and Machine Learning (PRML) In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
 From Page 46 we know, the expected loss can be written as
-\[\small \mathbb{E}[L] = \iint\{y(\mathbf{x}) - t\}^2 p(\mathbf{x}, t)\mathrm{d}\mathbf{x}\mathrm{d}t \]
-And we know
-\[\small \{y(\mathbf{x}) - t\}^2 = \{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}] &#43; \mathbb{E}[t|\mathbf{x}] - t\}^2 = \{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}]\}^2 &#43; 2\{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}]\}\{\mathbb{E}[t|\mathbf{x}] - t\} &#43; \{\mathbb{E}[t|\mathbf{x}] - t\}^2 \] In the above equation,">
+\[\small \mathbb{E}[L] = \iint\{y(\mathbf{x}) - t\}^2 p(\mathbf{x}, t)\mathrm{d}\mathbf{x}\mathrm{d}t \]">
 
   
   <link rel="alternate" hreflang="en-us" href="https://wzhings.github.io/tutorial/prml_ch1/">
@@ -135,16 +133,14 @@ And we know
   <meta property="og:site_name" content="Zuhui Wang&#39;s Homepage">
   <meta property="og:url" content="https://wzhings.github.io/tutorial/prml_ch1/">
   <meta property="og:title" content="Equation derivation procedure for 1.90 | Zuhui Wang&#39;s Homepage">
-  <meta property="og:description" content="In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
+  <meta property="og:description" content="Equation 1.90, Section 1.5.5 in Pattern Recognition and Machine Learning (PRML) In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
 From Page 46 we know, the expected loss can be written as
-\[\small \mathbb{E}[L] = \iint\{y(\mathbf{x}) - t\}^2 p(\mathbf{x}, t)\mathrm{d}\mathbf{x}\mathrm{d}t \]
-And we know
-\[\small \{y(\mathbf{x}) - t\}^2 = \{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}] &#43; \mathbb{E}[t|\mathbf{x}] - t\}^2 = \{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}]\}^2 &#43; 2\{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}]\}\{\mathbb{E}[t|\mathbf{x}] - t\} &#43; \{\mathbb{E}[t|\mathbf{x}] - t\}^2 \] In the above equation,"><meta property="og:image" content="https://wzhings.github.io/img/icon-192.png">
+\[\small \mathbb{E}[L] = \iint\{y(\mathbf{x}) - t\}^2 p(\mathbf{x}, t)\mathrm{d}\mathbf{x}\mathrm{d}t \]"><meta property="og:image" content="https://wzhings.github.io/img/icon-192.png">
   <meta property="og:locale" content="en-us">
   
   <meta property="article:published_time" content="2018-09-09T00:00:00-05:00">
   
-  <meta property="article:modified_time" content="2019-05-10T04:25:08-05:00">
+  <meta property="article:modified_time" content="2019-05-10T04:38:50-05:00">
   
 
   
@@ -401,10 +397,14 @@ And we know
           <h1 itemprop="name">Equation derivation procedure for 1.90</h1>
 
           <div class="article-style" itemprop="articleBody">
-            <!--
+            
+
+<!--
 inline \\(a^2 + b^2 = c\\)
 block: \\[ \\]
 -->
+
+<h3 id="equation-1-90-section-1-5-5-in-pattern-recognition-and-machine-learning-prml">Equation 1.90, Section 1.5.5 in Pattern Recognition and Machine Learning (PRML)</h3>
 
 <p>In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.</p>
 
