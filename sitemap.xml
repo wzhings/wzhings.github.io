@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>https://wzhings.github.io/other_homes/posts/</loc>
+    <lastmod>2019-05-10T15:07:31-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://wzhings.github.io/other_homes/experience/</loc>
     <lastmod>2019-04-29T23:51:03-05:00</lastmod>
   </url>
@@ -49,7 +54,7 @@
   
   <url>
     <loc>https://wzhings.github.io/</loc>
-    <lastmod>2019-05-10T04:42:37-05:00</lastmod>
+    <lastmod>2019-05-10T15:07:31-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -75,14 +80,14 @@
   </url>
   
   <url>
-    <loc>https://wzhings.github.io/other_homes/</loc>
-    <lastmod>2019-04-29T23:51:03-05:00</lastmod>
-    <priority>0</priority>
+    <loc>https://wzhings.github.io/post/</loc>
+    <lastmod>2019-05-10T15:07:31-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://wzhings.github.io/post/</loc>
-    <lastmod>2019-02-04T22:42:51+00:00</lastmod>
+    <loc>https://wzhings.github.io/other_homes/</loc>
+    <lastmod>2019-05-10T15:07:31-05:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
