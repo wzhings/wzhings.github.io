@@ -18,7 +18,7 @@
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
       <guid>https://wzhings.github.io/tutorial/prml_ch1/</guid>
-      <description>Equation 1.90, Section 1.5.5 in Pattern Recognition and Machine Learning (PRML) In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
+      <description>Section 1.5.5 in Pattern Recognition and Machine Learning (PRML) In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
 From Page 46 we know, the expected loss can be written as
 \[\small \mathbb{E}[L] = \iint\{y(\mathbf{x}) - t\}^2 p(\mathbf{x}, t)\mathrm{d}\mathbf{x}\mathrm{d}t \]</description>
     </item>

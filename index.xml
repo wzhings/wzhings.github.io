@@ -93,7 +93,7 @@ inline \\(a^2 + b^2 = c\\)
 block: \\[ \\]
 --&gt;
 
-&lt;h3 id=&#34;equation-1-90-section-1-5-5-in-pattern-recognition-and-machine-learning-prml&#34;&gt;Equation 1.90, Section 1.5.5 in Pattern Recognition and Machine Learning (PRML)&lt;/h3&gt;
+&lt;h3 id=&#34;section-1-5-5-in-pattern-recognition-and-machine-learning-prml&#34;&gt;Section 1.5.5 in Pattern Recognition and Machine Learning (PRML)&lt;/h3&gt;
 
 &lt;p&gt;In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.&lt;/p&gt;
 
