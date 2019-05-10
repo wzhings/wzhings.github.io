@@ -13,14 +13,16 @@
     
     
     <item>
-      <title>Example Page</title>
-      <link>https://wzhings.github.io/tutorial/example/</link>
+      <title>Equation derivation procedure for 1.90</title>
+      <link>https://wzhings.github.io/tutorial/prml_ch1/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://wzhings.github.io/tutorial/example/</guid>
-      <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
-Tip 1 &amp;hellip;
-Tip 2 &amp;hellip;</description>
+      <guid>https://wzhings.github.io/tutorial/prml_ch1/</guid>
+      <description>In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
+From Page 46 we know, the expected loss can be written as
+\[\small \mathbb{E}[L] = \iint\{y(\mathbf{x}) - t\}^2 p(\mathbf{x}, t)\mathrm{d}\mathbf{x}\mathrm{d}t \]
+And we know
+\[\small \{y(\mathbf{x}) - t\}^2 = \{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}] + \mathbb{E}[t|\mathbf{x}] - t\}^2 = \{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}]\}^2 + 2\{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}]\}\{\mathbb{E}[t|\mathbf{x}] - t\} + \{\mathbb{E}[t|\mathbf{x}] - t\}^2 \] In the above equation,</description>
     </item>
     
   </channel>
