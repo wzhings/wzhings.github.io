@@ -13,14 +13,35 @@
     
     
     <item>
-      <title>Equation derivation procedure for 1.90</title>
-      <link>https://wzhings.github.io/tutorial/prml_ch1/</link>
+      <title>Ch1. INTRODUCTION</title>
+      <link>https://wzhings.github.io/tutorial/ch1_intro/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://wzhings.github.io/tutorial/prml_ch1/</guid>
-      <description>Section 1.5.5 in Pattern Recognition and Machine Learning (PRML) In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.
+      <guid>https://wzhings.github.io/tutorial/ch1_intro/</guid>
+      <description>This chapter contains the following content:
+ Eq. 1.90 Derivation  </description>
+    </item>
+    
+    <item>
+      <title>Equation derivation procedure for 1.90</title>
+      <link>https://wzhings.github.io/tutorial/prml_ch1_eq1_90/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/tutorial/prml_ch1_eq1_90/</guid>
+      <description>Section 1.5.5, PRML In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I have to claim that the version of the textbook I am reading is the 2006 version. The Eq. 1.90 is list on Page 47.
 From Page 46 we know, the expected loss can be written as
 \[\small \mathbb{E}[L] = \iint\{y(\mathbf{x}) - t\}^2 p(\mathbf{x}, t)\mathrm{d}\mathbf{x}\mathrm{d}t \]</description>
+    </item>
+    
+    <item>
+      <title>Pattern Recognition and Machine Learning</title>
+      <link>https://wzhings.github.io/tutorial/prml/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/tutorial/prml/</guid>
+      <description>This page contain the reading notes of Pattern Recognition and Machine Learning (PRML), 2006 Version E-book.
+It contains the following chapters:
+ Introduction  </description>
     </item>
     
   </channel>

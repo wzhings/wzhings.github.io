@@ -91,11 +91,25 @@
     </item>
     
     <item>
-      <title>Equation derivation procedure for 1.90</title>
-      <link>https://wzhings.github.io/tutorial/prml_ch1/</link>
+      <title>Ch1. INTRODUCTION</title>
+      <link>https://wzhings.github.io/tutorial/ch1_intro/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://wzhings.github.io/tutorial/prml_ch1/</guid>
+      <guid>https://wzhings.github.io/tutorial/ch1_intro/</guid>
+      <description>&lt;p&gt;This chapter contains the following content:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://wzhings.github.io/tutorial/prml_ch1_eq1_90/&#34;&gt;Eq. 1.90 Derivation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Equation derivation procedure for 1.90</title>
+      <link>https://wzhings.github.io/tutorial/prml_ch1_eq1_90/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/tutorial/prml_ch1_eq1_90/</guid>
       <description>
 
 &lt;!--
@@ -103,9 +117,9 @@ inline \\(a^2 + b^2 = c\\)
 block: \\[ \\]
 --&gt;
 
-&lt;h3 id=&#34;section-1-5-5-in-pattern-recognition-and-machine-learning-prml&#34;&gt;Section 1.5.5 in Pattern Recognition and Machine Learning (PRML)&lt;/h3&gt;
+&lt;h2 id=&#34;section-1-5-5-prml&#34;&gt;Section 1.5.5, &lt;strong&gt;&lt;em&gt;PRML&lt;/em&gt;&lt;/strong&gt;&lt;/h2&gt;
 
-&lt;p&gt;In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I want to claim that the version of the textbook are 2006 version. The Eq. 1.90 is list on Page 47.&lt;/p&gt;
+&lt;p&gt;In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I have to claim that the version of the textbook I am reading is the 2006 version. The Eq. 1.90 is list on Page 47.&lt;/p&gt;
 
 &lt;p&gt;From Page 46 we know, the expected loss can be written as&lt;/p&gt;
 
@@ -166,9 +180,25 @@ $$\small
 \mathbb{E}[L] = \int \{y(\mathbf{x}) - \mathbb{E}[t|\mathbf{x}]\}^2 p(\mathbf{x})\mathrm{d}\mathbf{x} +  \int \mathrm{var}[t|\mathbf x] p(\mathbf x) \mathrm d\mathbf x
 $$&lt;/p&gt;
 
-&lt;p&gt;BTW, for the 2006 version E-book, the last term of Eq.$1.90$ has a typo. It has been fixed at page 7 in the &lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf&#34; target=&#34;_blank&#34;&gt;PRML Errata File&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;BTW, for the 2006 version E-book, the last term of Eq. 1.90 has a typo. It has been fixed at page 7 in the &lt;a href=&#34;https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/prml-errata-1st-20110921.pdf&#34; target=&#34;_blank&#34;&gt;PRML Errata File&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;-[&lt;strong&gt;END&lt;/strong&gt;]-&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pattern Recognition and Machine Learning</title>
+      <link>https://wzhings.github.io/tutorial/prml/</link>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/tutorial/prml/</guid>
+      <description>&lt;p&gt;This page contain the reading notes of Pattern Recognition and Machine Learning (&lt;strong&gt;PRML&lt;/strong&gt;), 2006 Version E-book.&lt;/p&gt;
+
+&lt;p&gt;It contains the following chapters:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://wzhings.github.io/tutorial/ch1_intro/&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
 </description>
     </item>
     
