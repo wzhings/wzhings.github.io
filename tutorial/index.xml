@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} Zuhui Wang</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://wzhings.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Ch1. INTRODUCTION</title>
       <link>https://wzhings.github.io/tutorial/ch1_intro/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://wzhings.github.io/tutorial/ch1_intro/</guid>
       <description>This chapter contains the following content:
@@ -25,7 +25,7 @@
     <item>
       <title>Equation derivation procedure for 1.90</title>
       <link>https://wzhings.github.io/tutorial/prml_ch1_eq1_90/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://wzhings.github.io/tutorial/prml_ch1_eq1_90/</guid>
       <description>Section 1.5.5, PRML In this note, I will show the derivation procedure of the equation of 1.90 step by step. Before we start, I have to claim that the version of the textbook I am reading is the 2006 version. The Eq. 1.90 is list on Page 47.
@@ -36,7 +36,7 @@ From Page 46 we know, the expected loss can be written as
     <item>
       <title>Pattern Recognition and Machine Learning</title>
       <link>https://wzhings.github.io/tutorial/prml/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://wzhings.github.io/tutorial/prml/</guid>
       <description>This page contain the reading notes of Pattern Recognition and Machine Learning (PRML), 2006 Version E-book.

@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} Zuhui Wang</copyright>
-    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 -0400</lastBuildDate>
     
 	    <atom:link href="https://wzhings.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -93,7 +93,7 @@
     <item>
       <title>Ch1. INTRODUCTION</title>
       <link>https://wzhings.github.io/tutorial/ch1_intro/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://wzhings.github.io/tutorial/ch1_intro/</guid>
       <description>&lt;p&gt;This chapter contains the following content:&lt;/p&gt;
@@ -107,7 +107,7 @@
     <item>
       <title>Equation derivation procedure for 1.90</title>
       <link>https://wzhings.github.io/tutorial/prml_ch1_eq1_90/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://wzhings.github.io/tutorial/prml_ch1_eq1_90/</guid>
       <description>
@@ -189,7 +189,7 @@ $$&lt;/p&gt;
     <item>
       <title>Pattern Recognition and Machine Learning</title>
       <link>https://wzhings.github.io/tutorial/prml/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 -0500</pubDate>
+      <pubDate>Sun, 09 Sep 2018 00:00:00 -0400</pubDate>
       
       <guid>https://wzhings.github.io/tutorial/prml/</guid>
       <description>&lt;p&gt;This page contain the reading notes of Pattern Recognition and Machine Learning (&lt;strong&gt;PRML&lt;/strong&gt;), 2006 Version E-book.&lt;/p&gt;
