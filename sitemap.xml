@@ -72,6 +72,12 @@
   </url>
   
   <url>
+    <loc>https://wzhings.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-12-27T12:12:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wzhings.github.io/project/cellcounting/</loc>
     <lastmod>2020-12-27T12:01:28-05:00</lastmod>
   </url>
@@ -95,24 +101,18 @@
   </url>
   
   <url>
-    <loc>https://wzhings.github.io/tags/deep-learning/</loc>
-    <lastmod>2020-12-27T12:12:36-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wzhings.github.io/tags/antivaccine/</loc>
-    <lastmod>2020-12-27T12:12:36-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://wzhings.github.io/project/antivaccine/</loc>
     <lastmod>2020-12-27T12:01:28-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://wzhings.github.io/tags/multimedia/</loc>
+    <lastmod>2020-12-27T12:12:36-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/antivaccine/</loc>
     <lastmod>2020-12-27T12:12:36-05:00</lastmod>
     <priority>0</priority>
   </url>
