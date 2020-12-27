@@ -31,15 +31,6 @@
     </item>
     
     <item>
-      <title>Deep Learning</title>
-      <link>https://wzhings.github.io/tags/deep-learning/</link>
-      <pubDate>Sun, 27 Dec 2020 11:52:24 -0500</pubDate>
-      
-      <guid>https://wzhings.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>biomedical image processing</title>
       <link>https://wzhings.github.io/tags/biomedical-image-processing/</link>
       <pubDate>Sun, 27 Dec 2020 11:52:24 -0500</pubDate>
@@ -54,6 +45,15 @@
       <pubDate>Sun, 27 Dec 2020 11:52:24 -0500</pubDate>
       
       <guid>https://wzhings.github.io/tags/cell-counting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>deep learning</title>
+      <link>https://wzhings.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 27 Dec 2020 11:52:24 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     

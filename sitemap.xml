@@ -44,36 +44,30 @@
   
   <url>
     <loc>https://wzhings.github.io/cat/</loc>
-    <lastmod>2020-12-27T13:07:34-05:00</lastmod>
+    <lastmod>2020-12-27T13:11:53-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://wzhings.github.io/tags/</loc>
-    <lastmod>2020-12-27T13:07:34-05:00</lastmod>
+    <lastmod>2020-12-27T13:11:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wzhings.github.io/</loc>
-    <lastmod>2020-12-27T13:07:34-05:00</lastmod>
+    <lastmod>2020-12-27T13:11:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wzhings.github.io/tags/cat/</loc>
-    <lastmod>2020-12-27T13:07:34-05:00</lastmod>
+    <lastmod>2020-12-27T13:11:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://wzhings.github.io/tags/tuxedo/</loc>
-    <lastmod>2020-12-27T13:07:34-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://wzhings.github.io/tags/deep-learning/</loc>
-    <lastmod>2020-12-27T12:12:36-05:00</lastmod>
+    <lastmod>2020-12-27T13:11:53-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,6 +91,12 @@
   <url>
     <loc>https://wzhings.github.io/tags/cell-counting/</loc>
     <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-12-27T12:12:36-05:00</lastmod>
     <priority>0</priority>
   </url>
   
