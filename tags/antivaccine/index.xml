@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>antivaccine on Zuhui Wang&#39;s Homepage</title>
+    <link>https://wzhings.github.io/tags/antivaccine/</link>
+    <description>Recent content in antivaccine on Zuhui Wang&#39;s Homepage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;{year} Zuhui Wang</copyright>
+    <lastBuildDate>Sun, 27 Dec 2020 11:48:02 -0500</lastBuildDate>
+    
+	<atom:link href="https://wzhings.github.io/tags/antivaccine/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Detecting Medical Misinformation on Social Media</title>
+      <link>https://wzhings.github.io/project/antivaccine/</link>
+      <pubDate>Sun, 27 Dec 2020 11:48:02 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/project/antivaccine/</guid>
+      <description>This project focuses on building deep learning models to detect antivaccine posts on social media.</description>
+    </item>
+    
+    <item>
+      <title>Detecting Medical Misinformation on Social Media Using Multimodal Deep Learning</title>
+      <link>https://wzhings.github.io/publication/journals/antivaccine/</link>
+      <pubDate>Tue, 10 Nov 2020 00:00:00 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/publication/journals/antivaccine/</guid>
+      <description>Abstract In 2019, outbreaks of vaccine-preventable diseases reached the highest number in the US since 1992. Medical misinformation, such as antivaccine content propagating through social media, is associated with increases in vaccine delay and refusal. Our overall goal is to develop an automatic detector for antivaccine messages to counteract the negative impact that antivaccine messages have on the public health. Very few extant detection systems have considered multimodality of social media posts (images, texts, and hashtags), and instead focus on textual components, despite the rapid growth of photo-sharing applications (e.</description>
+    </item>
+    
+  </channel>
+</rss>

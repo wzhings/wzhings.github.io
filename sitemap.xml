@@ -43,6 +43,128 @@
   </url>
   
   <url>
+    <loc>https://wzhings.github.io/project/cellcounting/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/project/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/biomedical-image-processing/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/cell-counting/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/deep-learning/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/project/antivaccine/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/antivaccine/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/multimedia/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/authors/zuhui-wang/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/publication_types/2/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/authors/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/publication/journals/antivaccine/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/multimodal/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/publication_types/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/authors/young-anna-argyris/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/authors/zhaozheng-yin/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/tags/computer-vision/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/publication/journals/visualcong/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wzhings.github.io/authors/yongsuk-kim/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://wzhings.github.io/tutorial/ch1_intro/</loc>
     <lastmod>2019-05-10T20:28:05-05:00</lastmod>
   </url>
@@ -63,20 +185,8 @@
   </url>
   
   <url>
-    <loc>https://wzhings.github.io/</loc>
-    <lastmod>2019-05-10T20:28:05-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://wzhings.github.io/author/admin/</loc>
     <lastmod>2020-12-25T14:04:25-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wzhings.github.io/authors/</loc>
-    <lastmod>2020-12-25T14:04:25-05:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -90,8 +200,8 @@
   </url>
   
   <url>
-    <loc>https://wzhings.github.io/post/</loc>
-    <lastmod>2019-05-10T15:07:31-05:00</lastmod>
+    <loc>https://wzhings.github.io/news/</loc>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
   </url>
   
   <url>
@@ -101,23 +211,13 @@
   </url>
   
   <url>
-    <loc>https://wzhings.github.io/publication_types/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://wzhings.github.io/publication/</loc>
-    <lastmod>2019-02-04T22:42:51+00:00</lastmod>
+    <lastmod>2020-12-27T12:01:28-05:00</lastmod>
   </url>
   
   <url>
     <loc>https://wzhings.github.io/talk/</loc>
     <lastmod>2019-02-04T22:42:51+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://wzhings.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
