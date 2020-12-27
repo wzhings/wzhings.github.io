@@ -7,10 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} Zuhui Wang</copyright>
-    <lastBuildDate>Sun, 27 Dec 2020 11:52:24 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 27 Dec 2020 12:18:52 -0500</lastBuildDate>
     
 	<atom:link href="https://wzhings.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>cat</title>
+      <link>https://wzhings.github.io/tags/cat/</link>
+      <pubDate>Sun, 27 Dec 2020 12:18:52 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/tags/cat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tuxedo</title>
+      <link>https://wzhings.github.io/tags/tuxedo/</link>
+      <pubDate>Sun, 27 Dec 2020 12:18:52 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/tags/tuxedo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://wzhings.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 27 Dec 2020 11:52:24 -0500</pubDate>
+      
+      <guid>https://wzhings.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>biomedical image processing</title>
@@ -31,16 +58,7 @@
     </item>
     
     <item>
-      <title>deep-learning</title>
-      <link>https://wzhings.github.io/tags/deep-learning/</link>
-      <pubDate>Sun, 27 Dec 2020 11:52:24 -0500</pubDate>
-      
-      <guid>https://wzhings.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>antivaccine</title>
+      <title>Antivaccine</title>
       <link>https://wzhings.github.io/tags/antivaccine/</link>
       <pubDate>Sun, 27 Dec 2020 11:48:02 -0500</pubDate>
       
@@ -49,7 +67,7 @@
     </item>
     
     <item>
-      <title>multimedia</title>
+      <title>Multimedia</title>
       <link>https://wzhings.github.io/tags/multimedia/</link>
       <pubDate>Sun, 27 Dec 2020 11:48:02 -0500</pubDate>
       
